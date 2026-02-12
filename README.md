@@ -8,6 +8,6 @@ This repository contains the implementation for benchmarking **Null Intervention
 - **PSS-Weighted Ensemble:** A safety-first ensemble method that outperforms individual neural estimators in noisy regimes.
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/causal_robustness_paper.git`
+1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/causal_robustness_framework.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run experiments: `python main.py`
